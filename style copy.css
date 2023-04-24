@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçario-cor{
+    background-color: #181d2d;
+   color: #e3e8f3;
+   display: flex;
+   padding: 0 8%;
+  }
+ .cabeçario-logo{
+    width: 16%;
+    margin: 0 10px;
+    padding: 0 10px ;
+    display:flex;
+
+ }
+ .tenis{
+    display: flex;
+   padding: 10px;
+   position: relative;
+  justify-content: left;
+  height: 84vh;
+ }
+ .picaso{
+      display: flex; 
+      width: 340px;
+    margin: 0 50px;
+    padding: 34px 0;
+    
+ }
+.S-A{
+      display: flex; 
+    width: 340px;
+    margin: 0 200px;
+    padding: 34px 0;
+}
+.bts{
+   display: flex; 
+   width: 340px;
+   margin: 40px 340px;
+}
+.tigre{
+   display: flex; 
+   width: 340px;
+   margin: 40px 200px;
+  
+
+}
+.produtos{
+   display:grid;
+   grid-template-columns: 20% 20% 20% 20%  ;
+}
+.rodape{
+   background-color: #f7b373;
+}
+.rodape-img{
+  height: 60px;
+
+}
+.titulo{
+   list-style: none;
+   justify-content: center;
+   width: 3%;
+  margin: 180px 250px;
+  color: #fff;
+ 
+}
+.para{
+width: none;
+padding: 24px 0;
+}
+
+
+.caixas{
+   background-image:linear-gradient( #c76510,#f5d1a7) ;
+  
+   
+}
+
+.linha{
+   background-color: #060d23d3;
+ height: 60px;
+ margin: 0 40px;
+}
+.leyer{
+   display:grid;
+   grid-template-columns: 20% 20% 20% 20%  
+}
+.promo{
+   display: flex;
+   height: 68vh ;
+   margin: 5px 128px;
+   position: relative;
+   background-image:linear-gradient( #252B54,#dadce4) ;
+}
+
+.pepe{
+  height: 300px;
+   display: flex;
+ padding: 45px;
+}
+.big{
+   background-color: #c76510;
+   height: 45vh;
+   background-image:linear-gradient(#c76510#fff) ;
+   
+}
+
+.t{
+   margin: 78px 280px;
+   display: grid;
+   grid-template-columns: 20% 20% 20% 20%;
+  
+}
+.h1{
+   margin: 28px 0;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
